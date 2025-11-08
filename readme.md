@@ -7,6 +7,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ## 📊 Stats
+[![GitHub Stats2](https://awesome-github-stats.azurewebsites.net/user-stats/achul123?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=achul123&show_icons=true&theme=dark&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achul123&layout=compact&theme=dark)
